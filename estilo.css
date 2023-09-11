@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
 }
+
 html{
     /* me permite deslizar cuando hago clic en los links del menu */
     scroll-behavior: smooth;
@@ -556,6 +557,13 @@ html{
     text-align: center;
     padding: 20px 0;
 }
+.contacto h3{
+    font-size: 20px;
+    font-family: 'Righteous';
+    text-align: left;
+    padding: 10px 0;
+}
+
 .contacto .fila{
     display: flex;
 }
